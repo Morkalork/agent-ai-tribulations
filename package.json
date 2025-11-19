@@ -1,0 +1,23 @@
+{
+  "name": "the-tribe-agent",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node server.js",
+    "cli": "node agent.js",
+    "test-rag": "node test-rag.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^1.0.5",
+    "@langchain/openai": "^1.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "langchain": "^1.0.4"
+  }
+}

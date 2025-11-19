@@ -1,0 +1,220 @@
+{
+  "en": {
+    "companyName": "The Tribe",
+    "founder": "Jenny Fergéus Almroth",
+    "co-founders": ["Patrik Palmér"],
+    "employees": [
+      {
+        "name": "Linus Wijk",
+        "role": "Developer",
+        "area": "Backend development with .NET & Azure"
+      },
+      {
+        "name": "Jenny Fergéus Almroth",
+        "role": "CEO",
+        "area": "Leadership & end-to-end tech strategy"
+      },
+      {
+        "name": "Patrik Palmér",
+        "role": "Lead developer",
+        "area": "Backend architect & high-scale services"
+      },
+      {
+        "name": "Magnus Ferm",
+        "role": "Lead developer",
+        "area": "Frontend excellence with React/Next.js"
+      },
+      {
+        "name": "Johnny Cederholm",
+        "role": "Developer",
+        "area": "Backend APIs and microservices"
+      },
+      {
+        "name": "Anders Clark",
+        "role": "Developer",
+        "area": "Frontend web apps & UI performance"
+      },
+      {
+        "name": "Niklas Sjöberg",
+        "role": "Developer",
+        "area": "Mobile & cross-platform applications"
+      },
+      {
+        "name": "Andrew Wren",
+        "role": "Developer",
+        "area": "Backend orchestration & cloud infrastructure"
+      },
+      {
+        "name": "Martin Lekvall",
+        "role": "Developer",
+        "area": "Frontend interfaces with TypeScript & Vue"
+      },
+      {
+        "name": "Johan Olsson",
+        "role": "Developer",
+        "area": "Backend development and reliable services"
+      },
+      {
+        "name": "Niklas Häll",
+        "role": "Student developer",
+        "area": "Backend development (junior / learning path)"
+      },
+      {
+        "name": "Henrik Jönsson",
+        "role": "Developer",
+        "area": "Backend systems and integration work"
+      },
+      {
+        "name": "Alireza Rafeizadeh",
+        "role": "Developer",
+        "area": "App development for iOS/Android"
+      },
+      {
+        "name": "Julia Mattjus",
+        "role": "Developer",
+        "area": "Backend services with Kotlin/Go"
+      },
+      {
+        "name": "Indy",
+        "role": "Office dog",
+        "area": "Office morale & wellbeing"
+      }
+    ],
+    "tagline": "We’re not the biggest, but we make a difference",
+    "story": "The Tribe started with a simple idea: build a tech consultancy where community and a strong culture are the foundation for delivering success together with our partners.",
+    "missionStatement": "Offer top developers who make a real difference for clients, while creating an environment where excellent developers can grow.",
+    "whyChooseUs": [
+      "Developers with passion",
+      "People first",
+      "Knowledge that challenges"
+    ],
+    "careers": {
+      "intro": "We’re growing and want to get to know you—your values, how you work, and how you can strengthen both us and our clients.",
+      "culture": [
+        "Continuous learning",
+        "Flexible work and wellbeing",
+        "Thoughtful assignment matching"
+      ],
+      "openRoles": ["Senior Developer"]
+    },
+    "hq": {
+      "address": "Skeppsbron 5, 211 20 Malmö, Sweden"
+    },
+    "contact": {
+      "email": "hello@thetribe.tech",
+      "phone": "+46 768 14 70 14",
+      "social": {
+        "linkedin": "https://www.linkedin.com/company/thetribetech"
+      }
+    }
+  },
+  "sv": {
+    "companyName": "The Tribe",
+    "founder": "Jenny Fergéus Almroth",
+    "co-founders": ["Patrik Palmér"],
+    "employees": [
+      {
+        "name": "Linus Wijk",
+        "role": "Utvecklare",
+        "area": "Backend-utveckling med .NET & Azure"
+      },
+      {
+        "name": "Jenny Fergéus Almroth",
+        "role": "VD",
+        "area": "Ledarskap och helhetsteknikstrategi"
+      },
+      {
+        "name": "Patrik Palmér",
+        "role": "Leadutvecklare",
+        "area": "Backendarkitekt och skalbara tjänster"
+      },
+      {
+        "name": "Magnus Ferm",
+        "role": "Leadutvecklare",
+        "area": "Front-end med React/Next.js"
+      },
+      {
+        "name": "Johnny Cederholm",
+        "role": "Utvecklare",
+        "area": "Back-end-API:er och mikrotjänster"
+      },
+      {
+        "name": "Anders Clark",
+        "role": "Utvecklare",
+        "area": "Front-end webbappar och UI-prestanda"
+      },
+      {
+        "name": "Niklas Sjöberg",
+        "role": "Utvecklare",
+        "area": "Mobil & cross-platform-appar"
+      },
+      {
+        "name": "Andrew Wren",
+        "role": "Utvecklare",
+        "area": "Back-end-orkestrering & molninfrastruktur"
+      },
+      {
+        "name": "Martin Lekvall",
+        "role": "Utvecklare",
+        "area": "Front-end med TypeScript & Vue"
+      },
+      {
+        "name": "Johan Olsson",
+        "role": "Utvecklare",
+        "area": "Back-end-utveckling och tillförlitliga tjänster"
+      },
+      {
+        "name": "Niklas Häll",
+        "role": "Studentutvecklare",
+        "area": "Back-end-utveckling (junior/studerande)"
+      },
+      {
+        "name": "Henrik Jönsson",
+        "role": "Utvecklare",
+        "area": "Back-end-system och integrationsarbete"
+      },
+      {
+        "name": "Alireza Rafeizadeh",
+        "role": "Utvecklare",
+        "area": "App-utveckling för iOS/Android"
+      },
+      {
+        "name": "Julia Mattjus",
+        "role": "Utvecklare",
+        "area": "Back-end-tjänster med Kotlin/Go"
+      },
+      {
+        "name": "Indy",
+        "role": "Kontorshund",
+        "area": "Kontorsmoral & välmående"
+      }
+    ],
+    "tagline": "Vi är inte störst, men vi gör skillnad",
+    "story": "The Tribe startade med en enkel idé: att bygga ett techkonsultbolag där gemenskap och en stark kultur är grunden för att lyckas tillsammans med våra partners.",
+    "missionStatement": "Erbjuda vassa utvecklare som gör verklig skillnad hos kunder, samtidigt som vi skapar en miljö där duktiga utvecklare kan växa.",
+    "whyChooseUs": [
+      "Utvecklare med passion",
+      "Människor först",
+      "Kunskap som utmanar"
+    ],
+    "careers": {
+      "intro": "Vi växer och vill lära känna dig—dina värderingar, hur du jobbar och hur du kan stärka både oss och våra kunder.",
+      "culture": [
+        "Kontinuerligt lärande",
+        "Flexibelt arbete och välmående",
+        "Omsorgsfull matchning av uppdrag"
+      ],
+      "openRoles": ["Senior utvecklare"]
+    },
+    "hq": {
+      "address": "Skeppsbron 5, 211 20 Malmö, Sverige"
+    },
+    "contact": {
+      "email": "hello@thetribe.tech",
+      "phone": "+46 768 14 70 14",
+      "social": {
+        "linkedin": "https://www.linkedin.com/company/thetribetech"
+      }
+    }
+  }
+}
